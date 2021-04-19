@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445734650813",
+    "project_id": "flash-chat-bb1fc",
+    "storage_bucket": "flash-chat-bb1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445734650813:android:e790359567b95eca9908d4",
+        "android_client_info": {
+          "package_name": "co.anthonesilva.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445734650813-5t390a60v5be08cqsj5cvnb4ep1p0gt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0gNsvvtAFaifTr-11Tqu7eXIFZe3Nvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445734650813-5t390a60v5be08cqsj5cvnb4ep1p0gt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
